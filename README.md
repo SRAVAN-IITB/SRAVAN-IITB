@@ -1,6 +1,6 @@
 - 👋 Hi!\
   I’m Sravan K Suresh, a Sophomore in the department of Electrical engineering at IIT Bombay.
-- 👀 I’m interested in Data Science and its applications, Signal processing and Communications, Control systems, Quantum Information Technology and Quantum Computing, Programming and Web development. \
+- 👀 I’m interested in Data Science and its applications, Signal processing and Communications, Quantum Information Technology and Quantum Computing. \
   My passion- Music and Chess 😊
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
