@@ -8,7 +8,7 @@
   📧 Gmail: [sravanksuresh@gmail.com](\href{mailto:sravanksuresh@gmail.com})\
   📞 [+91-9867518862](href{tel:+91-9867518862})\
   Whatsapp: +91-8275460822\
-  LinkedIn: [Sravan K Suresh](\href{https://linkedin.com/in/sravan-k-suresh-82ba33253/})\
+  LinkedIn: [https://linkedin.com/in/sravan-k-suresh](\href{https://linkedin.com/in/sravan-k-suresh-82ba33253/})\
   Instagram: [@thesravansuresh](\href{https://www.instagram.com/thesravansuresh/})\
   🌐 ...
 
