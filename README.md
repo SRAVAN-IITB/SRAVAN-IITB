@@ -26,10 +26,10 @@
 ### :man_technologist: About Me :
 
   I’m Sravan K Suresh, a Sophomore in the department of Electrical engineering at IIT Bombay.
-- 👀 I’m interested in Data Science and its applications, Signal processing and Communications, Quantum Information Technology and Quantum Computing. \
+- 👀 I’m interested in Machine Learning, Applied Data Science, Signal processing and Communications, Quantum Information Technology and Quantum Computing. \
   My passion- Music and Chess 😊
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a research project that involves my interests mentioned above.
 - 📫 How to reach me?\
   📧 Gmail: [sravanksuresh@gmail.com](\href{mailto:sravanksuresh@gmail.com})\
   📞 [+91-9867518862](href{tel:+91-9867518862})\
