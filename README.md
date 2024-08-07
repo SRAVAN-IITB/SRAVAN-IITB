@@ -1,18 +1,20 @@
 <div id="header" align="center">
-  <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=SRAVAN-IITB&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-</div>
+
+### My Stats
+![](https://komarev.com/ghpvc/?username=SRAVAN-IITB)
+
+[![Sravan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRAVAN-IITB&hide=stars,issues&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRAVAN-IITB&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
+<!---
 ### :man_technologist: About Me :
 
   I’m Sravan K Suresh, a Sophomore in the department of Electrical engineering at IIT Bombay.
@@ -25,8 +27,8 @@
   📞 [+91-9867518862](href{tel:+91-9867518862})\
   Whatsapp: +91-8275460822\
   LinkedIn: [https://linkedin.com/in/sravan-k-suresh-82ba33253/](\href{https://linkedin.com/in/sravan-k-suresh-82ba33253/})\
-  Instagram: [@thesravansuresh](\href{https://www.instagram.com/thesravansuresh/})\
   🌐 ...
+  --->
 
 <!---
 SRAVAN-IITB/SRAVAN-IITB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
